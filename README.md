@@ -1,2 +1,2 @@
-# AnshuArora26.github.io
+# AroraAnshu26.github.io
 My personal website :)

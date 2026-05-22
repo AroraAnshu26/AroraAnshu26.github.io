@@ -1,15 +1,15 @@
 ---
-title: scikit-learn
-date: 2023-10-26
+title: Hands-on Reinforcement Learning
+date: 2024-06-03
 links:
   - type: site
-    url: https://github.com/scikit-learn/scikit-learn
+    url: https://github.com/AroraAnshu26/SoC24HandsOnRL/tree/main
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Reinforcement Learning
+  - Python
+  - Atari Games
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+This is my exploratory project in Reinforcement Learning, where I have implemented common learning algorithms such as Q-learning, to play the mountain car game. I have also implemented different greedy, epsilon greedy, UCB sampling strategy, and have plotted their regret versus number of samples. 
 
 <!--more-->

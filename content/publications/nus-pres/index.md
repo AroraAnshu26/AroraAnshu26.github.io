@@ -1,5 +1,5 @@
 ---
-title: "Variable-Bias Integrate-and-Fire Time Encoding Machines"
+title: "GenAI and PhD"
 
 authors:
 - Sahawita Raisya Putri Ariwobowo, Anshu Arora, Kang Ming Xuan, Nguyen Minh Loi, Yarshova Maryana

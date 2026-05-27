@@ -1,5 +1,5 @@
 ---
-#title: 'Awards'
+title: 'Awards'
 url: "/awards/"
 date: 2026-01-01
 type: landing

@@ -27,7 +27,7 @@ Basketball has been a key part of my life, ever since childhood. It has taught m
 
 *A part of the band performance, on EESA's traditional day*
 
-I enjoy playing the keyboard and exploring music across different genres. Music serves as both a creative outlet for me, and a way to unwind outside technical and academic work. I like figuring out the notes of my favourite songs and have my family guess the tune. 
+I enjoy playing the keyboard and exploring music across different genres, and have cleared the Trinity Level 5 Keyboard exam with distinction. Music serves as both a creative outlet for me, and a way to unwind outside technical and academic work. I like figuring out the notes of my favourite songs and have my family guess the tune. 
 
 ---
 

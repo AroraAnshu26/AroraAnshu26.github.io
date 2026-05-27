@@ -23,7 +23,7 @@ sections:
         - **IEEE SoC JTG Summer School 2025** - IIT Bombay 
         - **CMInDS Winter Workshop 2026** - IIT Bombay
         - **Brain and Cognition Workshop 2026** - IISc Bangalore  
-        - **NeurAI, Neuromatch Academy 2026** - Online  
+        - **NeuroAI, Neuromatch Academy 2026** - Online  
 
   - block: resume-languages
     content:

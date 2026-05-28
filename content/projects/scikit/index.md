@@ -1,9 +1,10 @@
 ---
 title: Hands-on Reinforcement Learning
 date: 2024-06-03
-links:
-  - type: site
-    url: https://github.com/AroraAnshu26/SoC24HandsOnRL/tree/main
+# links:
+#   - type: site
+#     url: https://github.com/AroraAnshu26/SoC24HandsOnRL/tree/main
+url_code: https://github.com/AroraAnshu26/SoC24HandsOnRL/tree/main
 tags:
   - Reinforcement Learning
   - Python

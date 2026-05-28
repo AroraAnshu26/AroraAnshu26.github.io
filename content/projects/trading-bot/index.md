@@ -1,9 +1,10 @@
 ---
 title: Trading Bot
 date: 2023-12-27
-links:
-  - type: site
-    url: https://github.com/AroraAnshu26/DynamicStockMarketAnalysis 
+# links:
+#   - type: site
+#     url: https://github.com/AroraAnshu26/DynamicStockMarketAnalysis 
+url_code: https://github.com/AroraAnshu26/DynamicStockMarketAnalysis
 tags:
   - Python
   - Stock Market

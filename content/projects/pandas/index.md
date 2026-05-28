@@ -1,9 +1,10 @@
 ---
 title: EMG Controlled Prosthetic Arm
 date: 2025-04-26
-links:
-  - type: site
-    url: https://github.com/edl-iitb/edl-25-project-submission-edl25_mon01
+# links:
+#   - type: site
+#     url: https://github.com/edl-iitb/edl-25-project-submission-edl25_mon01
+url_code: https://github.com/edl-iitb/edl-25-project-submission-edl25_mon01
 tags:
   - Robotics
   - Machine Learning

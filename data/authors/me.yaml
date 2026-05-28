@@ -16,8 +16,9 @@ status:
 role: MS Student
 #My research interests also include signal processing and computational neuroscience, where I aim to bridge the gap between biological and artificial intelligence.
 bio: |
- I am interested in machine learning and robotics, with a focus on reinforcement learning, optimization, and data-efficient learning algorithms for embodied agents. My goal is to develop systems that can generalize, adapt, and make effective decisions under real-world constraints. I am particularly excited by problems at the intersection of learning, control, and autonomous interaction.
+  I am interested in machine learning and robotics, with a focus on reinforcement learning, optimization, and data-efficient learning algorithms for embodied agents. My goal is to develop systems that can generalize, adapt, and make effective decisions under real-world constraints. I am particularly excited by problems at the intersection of learning, control, and autonomous interaction.
 
+affiliations:
   - name: Stanford University
     role: MS Student
     url: https://www.stanford.edu/

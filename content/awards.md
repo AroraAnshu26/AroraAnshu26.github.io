@@ -10,6 +10,6 @@ design:
 sections:
   - block: resume-awards
     content:
-      #title: Awards
+      title: Awards
       username: me
 ---

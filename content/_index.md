@@ -34,15 +34,22 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
+  #My research lies at the intersection of machine learning, signal processing, and computational neuroscience. I am broadly interested in developing efficient learning algorithms and adaptive systems that are both theoretically grounded and practically scalable. 
+        
+        #A significant part of my recent work has focused on signal processing and time encoding machines, particularly variable-bias integrate-and-fire frameworks for efficient sampling and reconstruction of signals. I am interested in designing adaptive representations that leverage signal structure to improve efficiency, robustness, and interpretability. 
+        
+        #I am currently interested in reinforcement learning and optimization, especially in understanding how learning systems can make efficient decisions in dynamic environments. More broadly, I am fascinated by the connections between biological intelligence and artificial learning systems, and I hope to explore ideas inspired by neuroscience to build more efficient and explainable machine learning models.
     content:
       title: 'My Research'
       subtitle: ''
       text: |-
-        My research lies at the intersection of machine learning, signal processing, and computational neuroscience. I am broadly interested in developing efficient learning algorithms and adaptive systems that are both theoretically grounded and practically scalable. 
+        My research interest lies at the intersection of machine learning, optimization and robotics. I am broadly interested in developing efficient and adaptive learning algorithms that are both theoretically grounded and practically scalable, particularly for decision-making and autonomous systems operating in real-world environments.
+
+        I have worked on deriving theoretical guarantees for clustering in federated reinforcement learning, studied policy optimization methods such as TRPO and PPO, and analyzed backdoor attacks in federated learning to better understand robust distributed training. In signal processing, I have designed algorithms for sub-Nyquist sampling and perfect signal reconstruction using adaptive time encoding frameworks.
         
-        A significant part of my recent work has focused on signal processing and time encoding machines, particularly variable-bias integrate-and-fire frameworks for efficient sampling and reconstruction of signals. I am interested in designing adaptive representations that leverage signal structure to improve efficiency, robustness, and interpretability. 
+        Looking forward, I hope to work on problems that combine rigorous mathematical foundations with real-world implementation. I am especially excited by the challenge of building intelligent systems that can learn efficiently, adapt reliably, and operate robustly in dynamic environments.
         
-        I am currently interested in reinforcement learning and optimization, especially in understanding how learning systems can make efficient decisions in dynamic environments. More broadly, I am fascinated by the connections between biological intelligence and artificial learning systems, and I hope to explore ideas inspired by neuroscience to build more efficient and explainable machine learning models.
+        
     design:
       columns: '1'
   - block: collection

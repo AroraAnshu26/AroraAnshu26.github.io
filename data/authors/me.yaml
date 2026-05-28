@@ -14,8 +14,10 @@ name:
 status:
 #  icon: "☕️"
 role: MS Student
+#My research interests also include signal processing and computational neuroscience, where I aim to bridge the gap between biological and artificial intelligence.
 bio: |
- I am passionate about developing efficient learning algorithms and optimization techniques for machine learning, particularly in the area of reinforcement learning. My research interests also include signal processing and computational neuroscience, where I aim to bridge the gap between biological and artificial intelligence.
+ I am passionate about developing efficient learning algorithms and optimization techniques for machine learning, particularly in the area of reinforcement learning. 
+ 
 affiliations:
   - name: Stanford University
     role: MS Student
